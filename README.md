@@ -1,5 +1,19 @@
-# Inventaire des sources des arrêts TC
+# Inventaire des sources des arrêts de Transports en Commun (TC)
 
 ## Liste des arrêts GTFS OpenData provenant de Navitia.io
 
 * https://navitia.opendatasoft.com/explore/dataset/merged/files/7f37a13b783e2a32924d7977ba647384/download/
+
+## Données RATP depuis le site Open Data RATP
+* Positions géographiques des stations du réseau RATP : http://data.ratp.fr/explore/dataset/positions-geographiques-des-stations-du-reseau-ratp/export/ sous Licence ODbL ;
+* Accessibilité des arrêts de bus RATP : information géographique surement redondante ;
+* Accessibilité des gares et stations de Métro et RER RATP : idem redondance.
+ 
+## Données SNCF depuis le site SNCF Open Data :
+* Horaires des lignes Intercités : https://ressources.data.sncf.com/explore/dataset/sncf-intercites-gtfs/ sous Licence
+SNCF Open Data ;
+* Horaires des Tram-Train TER Pays de la Loire : https://ressources.data.sncf.com/explore/dataset/sncf-tram-train-ter-pdl-gtfs/ sous Licence
+SNCF Open Data ;
+* Horaires des lignes TER : https://ressources.data.sncf.com/explore/dataset/sncf-ter-gtfs/ sous Licence SNCF Open Data ;
+* Horaires des lignes Transilien : https://ressources.data.sncf.com/explore/dataset/sncf-transilien-gtfs/ sous Licence SNCF Open Data
+
