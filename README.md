@@ -1,6 +1,8 @@
 # Inventaire des sources des arrêts TC
 
-## sources de [données identifiées par le Cerema pour la base ATC](https://github.com/BATO-FR/lancement/wiki/Les-données-de-la-base-ATC-Bato#donnes):
+## sources de données identifiées par le Cerema pour la base ATC:
+sur la base du [recensement des sources open data maintenu par le Cerema](http://petitpois.passim.info/poi/search?ack=&k=&q=open+data&w=&s=active)
+
 https://github.com/BATO-FR/lancement/wiki/Les-données-de-la-base-ATC-Bato#datasources
 
 ## Annuaire liste des réseaux de transport fournissant des données OpenData
